@@ -25,10 +25,10 @@ export const ContactSection = () => {
           >
             <div>
               <h2 className="font-serif text-2xl md:text-3xl">
-                Let's create something amazing together
+                Let&apos;s create something amazing together
               </h2>
               <p className="text-sm md:text-base mt-2">
-                Ready to bring your next project to life? Le&apos;t connect and
+                Ready to bring your next project to life? Let&apos;s connect and
                 discuss how I can help you achieve your goals.
               </p>
             </div>
