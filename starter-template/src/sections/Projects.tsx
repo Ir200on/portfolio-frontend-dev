@@ -42,7 +42,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "https://ai-startup2.vercel.app/",
     image: aiStartupLandingPage,
   },
 ];
